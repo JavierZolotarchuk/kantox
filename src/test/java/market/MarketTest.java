@@ -1,3 +1,5 @@
+package market;
+
 import error.ProductNotFoundException;
 import org.junit.jupiter.api.Assertions;
 import org.junit.jupiter.api.Test;

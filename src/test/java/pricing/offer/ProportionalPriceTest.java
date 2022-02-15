@@ -4,7 +4,7 @@ import org.junit.jupiter.api.Assertions;
 import org.junit.jupiter.api.Test;
 import product.Product;
 
-class proportionalPriceTest {
+class ProportionalPriceTest {
 
     @Test
     public void when_there_are_few_units_then_does_not_apply_proportional_factor() {
