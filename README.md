@@ -1,1 +1,1 @@
-Kantox - Technical evaluation
+Kantox
